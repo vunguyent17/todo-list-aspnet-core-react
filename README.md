@@ -1,6 +1,6 @@
 # To Do List
 
-<img src="https://github.com/vunguyent17/todo-list-aspnet-core-react/blob/main/Screenshots/todolist-1.png" data-canonical-src="https://github.com/vunguyent17/todo-list-aspnet-core-react/blob/main/Screenshots/todolist-1.png" width="300" alt="Index Page" />
+<img src="https://github.com/vunguyent17/todo-list-aspnet-core-react/blob/main/Screenshots/todolist-1.png" data-canonical-src="https://github.com/vunguyent17/todo-list-aspnet-core-react/blob/main/Screenshots/todolist-1.png" width="800" alt="Index Page" />
 
 ## Introduction
 
