@@ -1,6 +1,6 @@
 # To Do List
 
-<img src="" data-canonical-src="" width="300" alt="Trang chủ" />
+<img src="https://github.com/vunguyent17/todo-list-aspnet-core-react/blob/main/Screenshots/todolist-1.png" data-canonical-src="https://github.com/vunguyent17/todo-list-aspnet-core-react/blob/main/Screenshots/todolist-1.png" width="300" alt="Index Page" />
 
 ## Introduction
 
@@ -22,7 +22,7 @@ TBA
 ## Set up project locally
 ### Prerequisites
 - PostgresDB
-- Visual Studios 2019/2022 with ASP.NET and web development workloads installed
+- Visual Studios 2019/2022 with ASP.NET Core and node installed
 
 ### Installation
 
